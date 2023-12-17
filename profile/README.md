@@ -10,6 +10,10 @@ SOTNIR advocates transparent and reproducible science, fostering positive intera
 
 ## Resources
 
+SOTNIR provides the following resources:
+
+- [The SOTNIR Handbook](https://sotnir-handbook.readthedocs.io)
+
 The establishment of SOTNIR receive support and guidance from the following resources:
 
 - [NITRC: NeuroImaging Tools & Resources Collaboratory](https://www.nitrc.org/)
